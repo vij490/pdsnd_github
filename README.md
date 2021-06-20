@@ -14,3 +14,9 @@ bikeshare.py is the script, ignored files include the data files for chicago,new
 
 ### Credits
 Udacity ND - Python for DS
+
+### Project Submitted by
+Vijai Krishna
+
+### Project Number
+1
