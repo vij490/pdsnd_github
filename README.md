@@ -20,3 +20,6 @@ Vijai Krishna
 
 ### Project Number
 1
+
+### Script Language
+Python
